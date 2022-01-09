@@ -1,0 +1,2 @@
+# lgitt
+learn git temporary
